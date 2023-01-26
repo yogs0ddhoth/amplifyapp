@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyappbc10615c": {}
+      },
+      "api": {
+        "amplifyapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
